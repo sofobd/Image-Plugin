@@ -1,0 +1,23 @@
+/*
+ * Gallery CSS
+ * Author A F M Salah Uddin Sumon  
+ */
+.button_group{
+    background-color: #eee;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    color: #555;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1;
+    padding: 6px 12px;
+	width:100%;
+}
+input[type="radio"]{
+	margin-top:0 !important;
+}
+#rotate_options, #resize_options, #crop_options, #wMark_options{
+	display:none;
+}
+#showimg{display:none}
+.header{padding-bottom:20px;}
